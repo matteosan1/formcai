@@ -1,1 +1,5 @@
-cloudinary
+cloudinary==1.44.2
+gspread==6.2.1
+oauth2client==4.1.3
+streamlit==1.56.0
+st-gsheets-connection
